@@ -3,5 +3,5 @@
 set -e
 
 export VENDOR=lge
-export DEVICE=ms345
+export DEVICE=h345
 ./../../$VENDOR/c50-common/setup-makefiles.sh $@
