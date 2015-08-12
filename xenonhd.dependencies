@@ -1,0 +1,22 @@
+[
+  { "remote": "th",
+    "repository": "android_device_lge_c50-common",
+    "target_path": "device/lge/c50-common",
+    "revision": "lp-mr1"
+  },
+  { "remote": "th",
+    "repository": "android_device_lge_msm8916-common",
+    "target_path": "device/lge/msm8916-common",
+    "revision": "lp-mr1"
+  },
+  { "remote": "th",
+    "repository": "android_kernel_lge_c50",
+    "target_path": "kernel/lge/c50",
+    "revision": "lp-mr1"
+  },
+  { "remote": "th",
+    "repository": "vendor_lge",
+    "target_path": "vendor/lge",
+    "revision": "lp-mr1"
+  }
+]
