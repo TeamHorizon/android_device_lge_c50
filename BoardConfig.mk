@@ -17,7 +17,7 @@
 # inherit from common c50
 -include device/lge/c50-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := c50,h345
+TARGET_OTA_ASSERT_DEVICE := h345
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/h345/bluetooth
